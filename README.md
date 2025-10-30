@@ -15,13 +15,13 @@ To get this project running locally, follow these steps:
 2.  **Clone the Repository:** Open your terminal and clone this public repository:
     ```bash
     git clone https://github.com/BhargavDobariya007/Click-to-random-facts
-    cd MyProject
+    cd Click-to-random-facts
     ```
 3.  **Dependencies:** As this project uses the standard web app template, all necessary packages will be restored automatically upon running the project.
 
 ## ▶️ How to Run the Project
 
-1.  **Run the Application:** From the project's root directory (`YOUT_DIRECTORY\MyProject`), execute the following command:
+1.  **Run the Application:** From the project's root directory (`YOUT_DIRECTORY\Click-to-random-facts`), execute the following command:
     ```bash
     dotnet run
     ```
