@@ -1,13 +1,13 @@
 # Click-to-random-facts
 .NET API Dashboard: Built with ASP.NET Core Minimal APIs and Razor Pages. It demonstrates safe API integration by using the .NET backend to proxy requests to an external fact API (HttpClient). The app fetches a random fact and displays it on the client side, showcasing modern, server-side data fetching.
 
-## 🚀 Project Description
+##  Project Description
 
 This project is a small, focused **API integration dashboard** built with **ASP.NET Core Minimal APIs** and Razor Pages.
 
 It demonstrates a core concept of modern web development: **using a .NET backend to safely proxy external API requests**. The user interface features a button that calls a custom `.NET` endpoint (`/getfact`), which then fetches a random fact from the public Cat Fact API using the **`HttpClient`** service. The result is then displayed on the client side, showcasing a clean, server-side data fetching architecture.
 
-## 🛠️ Installation Steps
+## Installation Steps
 
 To get this project running locally, follow these steps:
 
@@ -19,7 +19,7 @@ To get this project running locally, follow these steps:
     ```
 3.  **Dependencies:** As this project uses the standard web app template, all necessary packages will be restored automatically upon running the project.
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1.  **Run the Application:** From the project's root directory (`YOUT_DIRECTORY\Click-to-random-facts\MyProject`), execute the following command:
     ```bash
